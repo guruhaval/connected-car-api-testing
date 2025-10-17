@@ -1,0 +1,5 @@
+{
+    "vehicleId": "VH12345",
+    "featureName": "heated_seat",
+    "requestSource": "user_app"
+}
